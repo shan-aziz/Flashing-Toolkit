@@ -1,6 +1,7 @@
 # Flashing-Toolkit
 
 Android Flashing Toolkit
+
 This toolkit is developed by Shan Aziz to help users flashing custom roms, recoveries and magisk files.
 
 Instructions:
