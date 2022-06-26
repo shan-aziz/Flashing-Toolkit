@@ -3,7 +3,7 @@
 Android Flashing Toolkit
 
 Developed by Shan Aziz
-# Make flashing Easy! 
+## Make flashing Easy! 
 
 This toolkit is developed to help users flashing custom roms,
 recoveries, sideload flashing and magisk files without typing a single code.
