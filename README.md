@@ -17,3 +17,6 @@ recoveries, sideload flashing and magisk files without typing a single code.
 Download and install the latest ADB drivers and Minimal ADB and Fastboot on your computer.
 Important! If you want to extract other payload please delete the previous
 extraction in the payload folder to avoid any issues.
+
+# Attention!!!
+Do not reflash recovery after installing android 12/12L/12.1 roms it will give bootloops.
