@@ -7,7 +7,7 @@
 [https://www.pling.com/p/1857509](https://www.pling.com/p/1857509)
 
 Developed by Shan Aziz
-Make flashing Easy!
+Let's make flashing Easy!
 
 ---
 
