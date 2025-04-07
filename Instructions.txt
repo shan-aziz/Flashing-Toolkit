@@ -1,0 +1,18 @@
+# Flashing-Toolkit
+
+Developed by Shan Aziz
+
+=======================
+Make flashing Easy! 
+This toolkit is developed to help users flashing custom roms, gsi roms,
+recoveries, sideload flashing and magisk files without typing a single code & any command related issues.
+=======================
+Prerequisite:
+Download and install the latest ADB drivers and Minimal ADB and Fastboot on your computer.
+--------------------------------------------------------------------------------------------
+Important! 
+Extracred payload containing boot img is present in the payload folder.
+If you want to extract other payload please delete the previous
+extraction in the payload folder to avoid any issues.
+
+Thanks!
