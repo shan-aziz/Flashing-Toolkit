@@ -1,29 +1,39 @@
-# Flashing Toolkit v2.0
+# Flashing-Toolkit
 
-## Make flashing Easy! // Developed by Shan Aziz
+## Android Flashing Toolkit
+
+**Download Link!!!**
+
+[https://www.pling.com/p/1857509](https://www.pling.com/p/1857509)
+
+Developed by Shan Aziz
+Make flashing Easy!
 
 ---
 
-This toolkit simplifies the process of flashing various components to your Android device using ADB and Fastboot. It provides a menu-driven interface for common flashing tasks.
-
----
+This toolkit is developed to help users flash custom ROMs, recoveries, sideload flashable ZIPs, and Magisk files without typing a single line of code.
 
 ### Features:
 
-* **Flash Recovery:** Easily flash a custom recovery image (supports both A/B and non-A/B slot devices).
-* **Flash Sideload:** Sideload ZIP packages via ADB.
-* **Flash Magisk Patched Image:** Flash a Magisk patched boot image.
-* **Extract boot.img using payload:** Extract the `boot.img` file from an Android firmware payload.bin file.
-* **Flash GSI Rom:** Flash a Generic System Image (GSI) ROM (supports both A/B and non-A/B slot devices).
+1.  **Flash Custom Recovery:** Easily flash custom recovery images (supports both A/B and non-A/B slot devices).
+2.  **Flash Sideload:** Sideload ROMs and other ZIP packages via ADB.
+3.  **Flash Magisk Patch Img:** Flash a Magisk patched boot image.
+4.  **Extract boot.img using payload:** Extract the `boot.img` file from an Android firmware payload.bin file.
+5.  **Flash GSI Rom:** Flash a Generic System Image (GSI) ROM (supports both A/B and non-A/B slot devices).
 
 ---
 
-### Prerequisites:
+### Prerequisite:
 
-Before using this toolkit, ensure you have the following installed and configured on your computer:
+Download and install the latest ADB drivers and Minimal ADB and Fastboot on your computer.
 
-* **ADB and Fastboot:** These are essential tools for communicating with your Android device in bootloader mode. You can usually obtain them as part of the Android SDK Platform Tools. Make sure they are added to your system's PATH environment variable.
-* **Device Drivers:** Ensure you have the correct USB drivers installed for your Android device.
+**Important!** If you want to extract other payloads, please delete the previous extraction in the `payload` folder to avoid any issues.
+
+---
+
+### Attention!!!
+
+**Do not reflash recovery after installing Android 12/12L/12.1 ROMs; it will cause bootloops.**
 
 ---
 
